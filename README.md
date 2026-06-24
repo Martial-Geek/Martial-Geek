@@ -1,12 +1,12 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Uwais%20Jawed&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Founding%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20DevOps%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Uwais%20Jawed&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Engineer%20%7C%20Shipped%20%24100k%2B%20in%20Production%20Software&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%9A%80+Building+Production-Grade+SaaS+Platforms;%F0%9F%94%A7+MERN+%7C+Next.js+%7C+NestJS+%7C+Docker+%7C+Kubernetes;%F0%9F%8C%8D+Based+in+Kolkata%2C+India+%E2%80%94+Working+Globally" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%9A%80+25%2B+Paying+Users+Across+Live+SaaS+Products;%F0%9F%94%A7+MERN+%7C+Next.js+%7C+NestJS+%7C+Docker+%7C+AI+Agents;%F0%9F%8C%8D+Serving+Clients+in+US+%7C+UK+%7C+Canada+%7C+India" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,11 +16,160 @@
     <img src="https://img.shields.io/github/followers/Martial-Geek?label=Followers&style=for-the-badge&logo=github&color=0d1117&labelColor=1a1b27" alt="GitHub Followers"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=Martial-Geek&style=for-the-badge&color=6AD3F7&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <a href="https://github.com/Martial-Geek?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-Check%20Them%20Out-blueviolet?style=for-the-badge&logo=github" alt="Repos"/>
-  </a>
+  <img src="https://img.shields.io/badge/%24100k%2B-Projects%20Delivered-FFD700?style=for-the-badge&logoColor=black" alt="$100k+ Projects"/>
+  <img src="https://img.shields.io/badge/25%2B-Paying%20Users-00C853?style=for-the-badge&logoColor=white" alt="Paying Users"/>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Freelance-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status"/>
 </p>
+
+---
+
+## ⚡ Impact at a Glance
+
+<p align="center">
+<table>
+<tr>
+<td align="center" width="16%">
+  <h3>💰 $100k+</h3>
+  <b>Project Value</b><br/>
+  <sub>Delivered in Production</sub>
+</td>
+<td align="center" width="16%">
+  <h3>👥 25+</h3>
+  <b>Paying Customers</b><br/>
+  <sub>Across Live Platforms</sub>
+</td>
+<td align="center" width="16%">
+  <h3>⚡ 99.9%</h3>
+  <b>Production Uptime</b><br/>
+  <sub>On Live SaaS Systems</sub>
+</td>
+<td align="center" width="16%">
+  <h3>🚀 &lt;200ms</h3>
+  <b>API Response</b><br/>
+  <sub>Under Heavy Load</sub>
+</td>
+<td align="center" width="16%">
+  <h3>🌍 4 Countries</h3>
+  <b>Global Clients</b><br/>
+  <sub>US · UK · Canada · India</sub>
+</td>
+<td align="center" width="16%">
+  <h3>🛠️ 5+ Apps</h3>
+  <b>Live Products</b><br/>
+  <sub>In Active Production</sub>
+</td>
+</tr>
+</table>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 📣 [SlashPost](https://slashpost.app/)
+**AI-Powered Google Business Profile Automation**
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/Trigger.dev-black?style=flat-square" alt="Trigger.dev"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/>
+</p>
+
+**25+ paying businesses** — AI writes & auto-publishes Google Business Profile posts on a schedule, drafts AI review replies, tracks performance analytics, and generates a free SEO audit (SlashScore). Powered by **15 Trigger.dev background jobs** and dual billing via **Stripe & Razorpay**.
+
+> 🌍 Serving clients across **US · UK · Canada · India**
+
+</td>
+<td width="50%">
+
+### 🏗️ [Complied NYC](https://compliednyc.com/)
+**NYC Lead-Safe Compliance SaaS — $100k+ Project**
+
+<p>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/Next.js_15-black?style=flat-square&logo=next.js" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white" alt="BullMQ"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="K8s"/>
+</p>
+
+**4+ enterprise clients · $100k+ platform value** — Multi-tenant RBAC, HPD Government API integration, BullMQ queues processing **10,000+ daily compliance tasks**, blue-green Kubernetes deployments. **99.9% uptime · <200ms API response.** Contributed as part of a cross-functional engineering team.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛡️ [RiskFlow — Vodazok](https://vodazok.com/)
+**HIPAA · SOC 2 · GDPR Compliance SaaS**
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/pnpm_Monorepo-F69220?style=flat-square&logo=pnpm" alt="Monorepo"/>
+</p>
+
+**Founding Engineer** — Architected SRA, BAA, PnP compliance modules from scratch, bitfield-based RBAC/ABAC, automated PDF report generation, and a full MSP → ORG multi-tenant hierarchy for enterprise MSPs. **40% reduction in manual audit effort.** Currently in active enterprise beta.
+
+</td>
+<td width="50%">
+
+### 🏥 US Healthcare Clinic — Ops Platform
+**PHI-Compliant Internal Dashboard** *(Confidential Client)*
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Prisma_7-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/HIPAA--PHI%20Compliant-red?style=flat-square" alt="HIPAA"/>
+  <img src="https://img.shields.io/badge/Vercel_Cron-000000?style=flat-square&logo=vercel" alt="Vercel"/>
+</p>
+
+Full internal ops dashboard for a US wellness clinic: real-time call intake, CTM webhook integration, insurance rate management (Excel import), contact funnel analytics, Gmail/Google Chat automation, and scheduled digest reports. Built to handle **PHI data** with strict RBAC. *(Client name withheld — active production use)*
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔎 SEO OS
+**AI Content Operations Platform**
+
+<p>
+  <img src="https://img.shields.io/badge/LangGraph_JS-412991?style=flat-square&logo=openai&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/Claude_Sonnet-orange?style=flat-square" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Drizzle_ORM-black?style=flat-square" alt="Drizzle"/>
+  <img src="https://img.shields.io/badge/Google_Search_Console-4285F4?style=flat-square&logo=google&logoColor=white" alt="GSC"/>
+</p>
+
+Multi-node **LangGraph AI agent** pipeline — collect → memory → analyze → strategize → plan → approve → execute. Integrates Google Search Console, Analytics, and Sanity CMS. Human-in-the-loop approval workflow for high-risk content operations.
+
+</td>
+<td width="50%">
+
+### 🔗 Preebro — Oracle cXML Punchout Gateway
+**Enterprise E-Procurement Integration**
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/cXML-Punchout-6AD3F7?style=flat-square" alt="cXML"/>
+  <img src="https://img.shields.io/badge/AWS_Lightsail-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
+</p>
+
+Built an **Oracle Punchout protocol gateway** in PHP — outside my primary stack — enabling enterprise procurement system integration via the cXML standard. Deployed on AWS Lightsail. Demonstrates ability to deliver under client-mandated technology constraints.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -48,6 +197,7 @@ expertise:
   - CI/CD Pipelines, Docker, Kubernetes
   - RBAC/ABAC security models
   - Redis, BullMQ, PostgreSQL
+  - AI Agents (LangGraph, Claude, OpenAI)
 
 open_to:
   - Freelance Projects
@@ -72,8 +222,7 @@ daily_routine:
 - 🛡️ Designing granular **RBAC/ABAC** security models with **Redis & BullMQ** for high-throughput job processing
 - 🐳 Building comprehensive **GitLab CI/CD pipelines**, deploying microservices via **Docker & Nginx** — reduced deployment time by **40%**
 - 📦 Engineered **monorepo architecture** improving code reusability and accelerating build times by **15%**
-- 🌱 **Learning:** Kubernetes, Advanced System Design, AI/ML
-- 🤖 **Side Interest:** Discord Bot Development with Discord.js
+- 🤖 Building **AI agent pipelines** with LangGraph + Claude for content automation
 - 📫 **Reach me:** uwaisjawed8081@gmail.com
 
 </td>
@@ -81,10 +230,13 @@ daily_routine:
 
 ### 🏆 Achievements & Impact
 
-- 🚀 **Founding Engineer** — Riskflow LLC, architecting compliance SaaS from the ground up
+- 💰 **$100k+ project value** delivered — Complied NYC platform
+- 👥 **25+ paying customers** across SlashPost & Complied NYC
+- 🌍 **4-country client base** — US, UK, Canada & India
+- 🚀 **Founding Engineer** — RiskFlow LLC, built compliance SaaS from 0 → 1
 - 📈 **99.9% uptime** with **<200ms** API response on [Complied NYC](https://compliednyc.com/)
 - ⚡ **99.8% uptime** on Docker-deployed VPS at Segritude Games
-- 🔧 **15% reduction** in API response latency via MongoDB optimization @ Zidio
+- 🔧 **40% reduction** in manual compliance audit effort
 - 🐳 **40% faster deployments** via CI/CD pipeline engineering
 - 🥇 **1st Position** — Exhibit 2022 (College Hackathon)
 - 🏅 **Amazon HackOn** — Qualified Round 2 (Oct 2024)
@@ -104,7 +256,7 @@ daily_routine:
 <br/>
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
@@ -127,9 +279,9 @@ daily_routine:
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
   <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js"/>
+  <img src="https://img.shields.io/badge/LangGraph-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LangGraph"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 </p>
 </details>
 
@@ -181,84 +333,6 @@ daily_routine:
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier"/>
 </p>
 </details>
-
----
-
-<!-- Featured Projects -->
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏗️ [Complied NYC](https://compliednyc.com/)
-**Lead-Safe Compliance Platform**
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-strict-blue?style=flat-square" alt="TS"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/>
-  <img src="https://img.shields.io/badge/Next.js_15-black?style=flat-square&logo=next.js" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="K8s"/>
-</p>
-
-Production-grade SaaS for NYC lead-safe compliance. Multi-tenant RBAC, HPD API integration, Bull/Redis queue processing **10,000+ daily tasks**, blue-green deployments. **99.9% uptime, <200ms API response.**
-
-</td>
-<td width="50%">
-
-### 🛡️ [RiskFlow](https://vodazok.com/)
-**Compliance as a Service**
-
-<p>
-  <img src="https://img.shields.io/badge/React-Vite-646CFF?style=flat-square&logo=vite" alt="Vite"/>
-  <img src="https://img.shields.io/badge/Express-TS-black?style=flat-square&logo=express" alt="Express"/>
-  <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/pnpm-mono-F69220?style=flat-square&logo=pnpm" alt="pnpm"/>
-</p>
-
-HIPAA, GDPR, DFS & SOC 2 compliance platform. RBAC + ABAC access control, microservices in pnpm monorepo, SRA/BAA modules, automated policy management & audit workflows.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔍 [Google Workspace Policy Analyser](https://riskflow-sra-frontend.vercel.app/)
-**Security Risk Assessment Tool**
-
-<p>
-  <img src="https://img.shields.io/badge/React-Vite-646CFF?style=flat-square&logo=vite" alt="Vite"/>
-  <img src="https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express" alt="Express"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-</p>
-
-Google Workspace policy analyzer for super admins. OAuth 2.0 + GCP integration, security scoring engine, actionable remediation. Redis-optimized to minimize API calls.
-
-</td>
-<td width="50%">
-
-### 🤖 Discord Clock-In System
-**Enterprise Bot @ Segritude Games**
-
-<p>
-  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab"/>
-</p>
-
-SaaS clock-in bot for multiple enterprise clients. Admin dashboard built with React, deployed on VPS via Docker, GitLab CI/CD pipelines for continuous delivery.
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -327,7 +401,6 @@ SaaS clock-in bot for multiple enterprise clients. Admin dashboard built with Re
 </tr>
 
 </table>
-
 
 ---
 
