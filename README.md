@@ -6,7 +6,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%9A%80+25%2B+Paying+Users+Across+Live+SaaS+Products;%F0%9F%94%A7+MERN+%7C+Next.js+%7C+NestJS+%7C+Docker+%7C+AI+Agents;%F0%9F%8C%8D+Serving+Clients+in+US+%7C+UK+%7C+Canada+%7C+India" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%9A%80+25%2B+Paying+Users+Across+Live+AI+SaaS+Products;%F0%9F%94%A7+MERN+%7C+Next.js+%7C+NestJS+%7C+Docker+%7C+AI+Agents;%F0%9F%8C%8D+Serving+Clients+in+US+%7C+UK+%7C+Canada+%7C+India" alt="Typing SVG" />
   </a>
 </p>
 
